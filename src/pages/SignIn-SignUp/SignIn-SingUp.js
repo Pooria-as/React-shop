@@ -11,14 +11,11 @@ class SingInSignUp extends React.Component {
    
         return (<div className='row'>
 
-        <div className='col-md-6'>
+        
         <SignIn/>
-        </div>
+     
 
-        <div className='col-md-6'>
-        hi 2
-        </div>
-
+    
 
 
 
